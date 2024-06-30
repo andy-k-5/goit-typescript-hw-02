@@ -23,9 +23,7 @@ const SearchBar: FC<PropsSearchBar> = ({ onSubmit }) => {
       >
         <Form
           className={css.form}
-          placeholder={undefined}
-          onPointerEnterCapture={undefined}
-          onPointerLeaveCapture={undefined}
+         
         >
           <Field
             className={css.input}

@@ -10,18 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@types/axios": "^0.14.0",
     "@types/react-modal": "^3.16.3",
-    "@types/react-toastr": "^3.0.10",
-    "formik_typescript_ui": "^2.0.4",
-    "formik-typed": "^0.0.3-alpha",
+    "axios": "^1.7.2",
+    "formik": "^2.4.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
     "react-loader-spinner": "^6.1.6",
-    "react-modal": "^3.16.1",
-    "types-axios": "^0.0.8",
-    "typescript-toast": "^1.0.0"
+    "react-modal": "^3.16.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
